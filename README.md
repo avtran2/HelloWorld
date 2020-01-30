@@ -1,2 +1,3 @@
 ### Hello World 
-	By: Alvin Tran
+Program to print out "Hello World"
+By: Alvin Tran
